@@ -1,3 +1,7 @@
-google dive link to download zipped file=
+google dive link to download zipped file of custom Data=
 
 "https://drive.google.com/file/d/1MbqHrG10nTBk8hRGBuNjtpYGkxEmxIQE/view?usp=sharing"
+
+google dive link to download zipped file of custom Data and all other files and outputs =
+
+"https://drive.google.com/drive/folders/1gl-43VvGsaPAV88WQrfJtVPRZQafpoNM?usp=sharing"
